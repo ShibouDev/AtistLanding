@@ -1,0 +1,11 @@
+.rhap_theme {
+    color: #868686 !important;
+}
+
+.rhap-background {
+    color: #000000 !important;
+}
+
+.rhap_bar-color: #e4e4e4 !default;
+.rhap_time-color: #333 !default;
+.rhap_font-family: inherit !default;
